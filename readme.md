@@ -1,4 +1,5 @@
 ##Curso Git desde cero
+Sistemas de control de versions para el mantenimiento eficiente y confiable de archivios
 
 ### Zonas de Git
 1. Directorio de trabajo
