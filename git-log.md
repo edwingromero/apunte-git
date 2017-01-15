@@ -14,3 +14,7 @@ Muestra el historial con el formato que indicamos.
 `git log --before="2016-01-14 00:00:00"` : muestra los commits realizados antes de la fecha especificada.
 
 Las banderas del comando `git log` se pueden usar juntas segun convenga, por ejemplo `git log --after="2017-01-14 13:00:00" --before="2017-01-14 14:00:00"`
+
+
+nueva anotacion, ammend
+segunda anotacion ammend
