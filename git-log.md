@@ -18,3 +18,7 @@ Las banderas del comando `git log` se pueden usar juntas segun convenga, por eje
 
 nueva anotacion, ammend
 segunda anotacion ammend
+
+
+`git log --oneline`
+Este comando nos muestra el historial en una sola linea poe commit
