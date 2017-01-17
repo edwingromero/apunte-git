@@ -16,3 +16,5 @@ Sistemas de control de versions para el mantenimiento eficiente y confiable de a
 
 ### Configurando Git por primera vez
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, temporibus, optio. Ducimus accusamus animi distinctio expedita, vel delectus quos nostrum vero praesentium commodi maiores. Sunt illum aliquid porro nostrum repellat.
+
+Esta linea se agregó desde un equipo windows conectado al respositorio local con github a traves de https
