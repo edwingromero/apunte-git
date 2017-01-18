@@ -1,6 +1,0 @@
-diff a/diferencias.md b/diferencias.md	(rejected hunks)
-@@ -1,2 +0,2 @@
--###git diff
-+# git diff
- compara lo que tenemos en el direcion de trabajo con lo esta en el area de preparacion!!
-\ No newline at end of file
