@@ -1,10 +1,10 @@
-### renombrar archivos
+# renombrar archivos
 
 ```
 git mv file_from fil_to
 ```
 
-###Equivalente a los siguientes pasos
+# Equivalente a los siguientes pasos
 
 1. Renombrar el arhivo manualmente
 2. `git` rm para elminar el archivo con git
