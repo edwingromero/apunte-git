@@ -20,6 +20,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, temporibus, o
 
 
 ### apuntes de git con ssh
-
-## Varios repositorios remotos
-Podemos configuracion un mismo proyecto para sincronizar cambios con varios repositorios remotos.
